@@ -81,7 +81,7 @@ daily-web3/
 
 ## 🤝 Connect
 
-- **X (Twitter):** [https://x.com/abhigyan1107]
+- **X (Twitter):** [https://x.com/abhigyan1102]
 - **GitHub:** [https://github.com/abhigyan1102]
 - **LinkedIn:** [https://www.linkedin.com/in/abhigyansingh11/]
 
